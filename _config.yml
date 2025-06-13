@@ -53,6 +53,7 @@ relative_source: ../jasper/
 destination: ../jasper-pages/
 production_url:  https://worldgreatkim.github.io
 source_url:  https://github.com/worldgreatkim/worldgreatkim.github.io
+future: true
 
 exclude:
   - README.md
